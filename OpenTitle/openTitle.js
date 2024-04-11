@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var notification = document.getElementById("notification");
     notification.onclick = function() {
       // Handle click event here
-      window.location.href = "/Portfolio/portfolio.html";
+      window.location.href = "https://cv22am.github.io/HUMC1P50-FinalProject/Portfolio/portfolio.html";
     };
   });
   
