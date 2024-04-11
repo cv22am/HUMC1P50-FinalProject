@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var notification = document.getElementById("notification");
     notification.onclick = function() {
       // Handle click event here
-      window.location.href = "/Users/ryanslingerland/Documents/Brock/S2/HUMC-1P50/HUMC-FinalProject/Portfolio/portfolio.html";
+      window.location.href = "/Users/ryanslingerland/Documents/Brock/Github/HUMC1P50-FinalProject/Portfolio/portfolio.html";
     };
   });
   
